@@ -38,6 +38,7 @@ I really liked the platformer I made in highschool. You can see it [here](https:
 I also don't know where to put this part so here is a relative link to a [different file with a cat picture](./CAT.md).
 
 > Soft drink ranking?
+
 1. Dr. Pepper
 2. Fanta
 3. Sprite
@@ -48,11 +49,13 @@ I also don't know where to put this part so here is a relative link to a [differ
 And dead last is obviously root beer.
 
 > What smaller companies are you excited for?
+
 - Cronometer
 - Hevy app
 - I can't think of another one right now but the list with only two points seemed weird.
 
 > What are your goals for the future?
+
 - [x] Get a summer internship
 - [ ] Graduate
 - [ ] Get the bag 💰
